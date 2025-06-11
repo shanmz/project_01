@@ -1,5 +1,5 @@
-print("hello world")
-for i in range(10):
-    print(i)
-print("end of program")
-print("This is a new line of code")
+print("ok")
+print("hello" + " how are you")
+print("let's go")
+print('let\'s go')
+print("let's go")
